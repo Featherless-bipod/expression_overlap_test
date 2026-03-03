@@ -30,18 +30,18 @@ The output of the mathematical analyses is saved in `results/overlap_results.csv
 ### Global Overlap
 A global view of the sets of significantly overlapping genes:
 
-![Summary Venn Diagram](/results/venn_diagram_all.png)
+![Summary Venn Diagram](/sample_results/venn_diagram_all.png)
 
 ### RRHO Heatmaps
 The Rank-Rank Hypergeometric Overlap test produces heatmaps detailing the strength and directionality of the expression overlap. Below are a few selected examples from the results highlighting specific genes:
 
 **DPF2 (Transcript 205)**  
-![DPF2-205 RRHO Heatmap](/results/heatmaps/DPF2-205.png)
+![DPF2-205 RRHO Heatmap](/sample_results/heatmaps/DPF2-205.png)
 
 **MATR3 (Transcript 201)**  
-![MATR3-201 RRHO Heatmap](/results/heatmaps/heatmaps/MATR3-201.png)
+![MATR3-201 RRHO Heatmap](/sample_results/heatmaps/heatmaps/MATR3-201.png)
 
 **MEF2C (Transcript 209)**  
-![MEF2C-209 RRHO Heatmap](/results/heatmaps/MEF2C-209.png)
+![MEF2C-209 RRHO Heatmap](/sample_results/heatmaps/MEF2C-209.png)
 
-*(Note: Additional heatmaps for other gene targets can be found within the `results/heatmaps/` directory).*
+*(Note: Additional heatmaps for other gene targets can be found within the `sample_results` directory).*
