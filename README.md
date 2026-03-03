@@ -39,9 +39,9 @@ The Rank-Rank Hypergeometric Overlap test produces heatmaps detailing the streng
 ![DPF2-205 RRHO Heatmap](/sample_results/heatmaps/DPF2-205.png)
 
 **MATR3 (Transcript 201)**  
-![MATR3-201 RRHO Heatmap](/sample_results/heatmaps/heatmaps/MATR3-201.png)
+![MATR3-201 RRHO Heatmap](/sample_results/heatmaps/MATR3-201.png)
 
 **MEF2C (Transcript 209)**  
-![MEF2C-209 RRHO Heatmap](/sample_results/heatmaps/MEF2C-209.png)
+![MEF2C-209 RRHO Heatmap](/sample_results/MEF2C-209.png)
 
 *(Note: Additional heatmaps for other gene targets can be found within the `sample_results` directory).*
