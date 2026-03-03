@@ -1,7 +1,7 @@
 # Expression Overlap Analysis
 
 ## Overview
-This directory (`schizophrenia`) contains the pipeline and results for evaluating the expression overlap between human transcripts and mouse genes in the context of Schizophrenia research. The analysis matches human genes against mouse orthologs and computes similarities in expression directionality via multiple statistical tests to identify significant overlapping targets.
+This directory contains the pipeline and results for evaluating the expression overlap between human transcripts and mouse genes in the context of Schizophrenia research. The analysis matches human genes against mouse orthologs and computes similarities in expression directionality via multiple statistical tests to identify significant overlapping targets.
 
 ## Analysis Pipeline
 
